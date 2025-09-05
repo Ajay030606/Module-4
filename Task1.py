@@ -7,5 +7,6 @@ def func(x):
          return x * func(x-1)
 
 x=int(input("Enter a number: "))
-print("Factorial of ",x,"is",func(x))
+print("Factorial of",x,"is",func(x))
+
 
