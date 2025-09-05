@@ -30,6 +30,7 @@ Prints the factorial result.
 
 **Task2**
 
+
 import math
 
 You import Python’s math module, which contains many mathematical functions (square root, log, trigonometry, etc.).
